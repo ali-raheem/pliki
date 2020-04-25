@@ -27,14 +27,13 @@ later stages).
 
 ## Delirium subtypes
 
-hyperactive (increased motor activity with agitation, hallucinations and
-inappropriate behaviour);
-
-<span class="underline">hypoactive</span>
-(reduced motor activity and lethargy)
-
-<span class="underline">mixed</span> (features of hyper and hypoactive
+* hyperactive (increased motor activity with agitation, hallucinations and
+inappropriate behaviour)
+* hypoactive (reduced motor activity and lethargy)
+* mixed (features of hyper and hypoactive
 delirium)?**
+
+### Hyperactive delirium
 
 With <span class="underline">HYPER</span>ACTIVE delirium, a patient can
 become aggressive, violent and agitated with those around them. They may
@@ -42,7 +41,7 @@ hear things, can become paranoid, and they are overall confused.
 Delusional thoughts are common. In these instances a delirium may be
 confused with something like *schizophrenia*.
 
-### Hyperactive delirium symptoms
+#### Hyperactive delirium symptoms
 
 - **Waxing and waning—**it comes and goes
 - **Issues with concentration**
@@ -53,6 +52,8 @@ confused with something like *schizophrenia*.
 - **Responding to things in the room that aren’t there**
 - **Not acting like themselves**
 
+### Hypoactive delirium
+
 Warning! **HYPOACTIVE** delirium is often missed
 
 Because the presentation is much less dramatic compared to hyperactive
@@ -61,7 +62,7 @@ but they are NOT pulling out their lines, yelling, or physically
 restless. In these instances, symptoms of hypoactive delirium may be
 confused with *depression* or *cognitive decline*.
 
-### Hypoactive delirium symptoms
+#### Hypoactive delirium symptoms
 
 * Slower movement
 * Softer speech
@@ -78,34 +79,19 @@ Psychotic symptoms where arising are COMPLEX and SUSTAINED in these
 patients. This is in contrast to ‘psychotic’ symptoms in delirium which
 are COMMON and tend to be SIMPLE and FLEETING.
 
-**Screening for delirium: QUESTIONS TO ASK-**
+## Screening for delirium
 
-***•Does the person know who they are?***
-
-***•Does the person know where they are?***
-
-***•In what detail does the person understand where they are?***
-
-***•Does the person know the date? ***
-
-***•Can they orient to the situation? Do they know why they are there
-and the circumstances that led to them being in the hospital? ***
-
-***•Can they repeat back a few words? Ask them later if they remember
-the three words asked previously). ***
-
-***•Test for concentration: like asking the days of the week in reverse
-order.***
-
-***•Assess visual and spatial ability e.g. ask them to draw a clock to
-look for spacing, impairments, or difficulties. ***
-
+* Does the person know who they are?
+* Does the person know where they are?
+* In what detail does the person understand where they are?
+* Does the person know the date?
+* Can they orient to the situation? Do they know why they are there and the circumstances that led to them being in the hospital?
+* Can they repeat back a few words? Ask them later if they remember the three words asked previously).
+* Test for concentration: like asking the days of the week in reverse order.
+* Assess visual and spatial ability e.g. ask them to draw a clock to look for spacing, impairments, or difficulties.
 Some tests that are common to determine delirium are:
-
   - The Mini Mental Status Exam (MMSE)
-
   - The Montreal Cognitive Assessment (MOCA)
-
   - 4AT
 
 ## Management
@@ -115,18 +101,10 @@ Warning! DELIRIUM IS A REVERSIBLE MEDICAL EMERGENCY.
 **PREVENTION (from developing and from worsening) is the most effective
 strategy for reducing frequency and complications.**
 
-1.  **<span class="underline">Treat underlying medical or organic
-    cause(s)</span> (if identifiable)**
-
+1.  **<span class="underline">Treat underlying medical or organic cause(s)</span> (if identifiable)**
 2.  **Minimize contributing factors**
-
-3.  **Review medication list for precipitants (opioids, antihistamines,
-    anticholinergics, benzodiazepines, drug toxicity)**
-
-4.  **BEHAVIOURAL INTERVENTIONS** (should be used BEFORE considering
-    medication):
-
-<!-- end list -->
+3.  **Review medication list for precipitants (opioids, antihistamines, anticholinergics, benzodiazepines, drug toxicity)**
+4.  **BEHAVIOURAL INTERVENTIONS** (should be used BEFORE considering medication):
 
   - Environment: is their bedspace well-lit? Would they benefit from a
     side-room?
