@@ -6,10 +6,10 @@ The aim of pharmacological management of agitation is calm the patient not to se
 Steps
 -----
 
-1.  Behavioural steps
-2.  Oral Medications
-3.  IM Medications
-4.  IV Medications
+1.  [Behavioural steps](#Behavioural techniques)
+2.  [Oral Medications](#Oral and IM medications)
+3.  [IM Medications](#Oral and IM medications)
+4.  [IV Medications](#IV Medications)
 5.  Seek expert advice
 
 Behavioural techniques
