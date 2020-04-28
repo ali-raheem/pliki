@@ -1,3 +1,4 @@
+Warning! This wiki is a demo and not intended for use.
 
 # Delirium
 
